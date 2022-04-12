@@ -9,7 +9,7 @@ function DocsComponent(){
     return(
         <div>
             <h2>
-                Redirect
+                Redirecting to documentation...
             </h2>
         </div>
     );
