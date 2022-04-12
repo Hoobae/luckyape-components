@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "luckyape-open-graph-v2.png",
+      "src": "luckyape-open-graph-800.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "luckyape-open-graph-v2.png",
+      "src": "luckyape-open-graph-800.png",
       "type": "image/png",
       "sizes": "512x512"
     }
